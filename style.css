@@ -102,7 +102,7 @@ h3 {
   flex-direction: column;
   align-items: center;
   width: 40vw;
-  height: auto;
+  height: 110vh;
 }
 
 .cirtHolder,
@@ -187,6 +187,14 @@ h3 {
   overflow: auto;
   width: 40%;
   height: auto;
+}
+
+.cirtimg {
+  display: block;
+  width: 60%;
+  height: 100%;
+  overflow: hidden;
+  border-radius: 25px;
 }
 
 #extraLongRow {
